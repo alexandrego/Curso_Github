@@ -1,0 +1,14 @@
+Testando o aprendizado utilizando git.
+
+Conhecimentos a serem absorvidos.
+1. Banco de dados Oracle
+2. Java
+3. Git
+4. Java script
+5. Html5 - Ok
+6. CSS - Ok
+7. React
+8. Angular
+9. Java
+10. Delphi
+11. C#
