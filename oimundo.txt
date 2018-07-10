@@ -12,3 +12,4 @@ Conhecimentos a serem absorvidos.
 9. Java
 10. Delphi
 11. C#
+12. Lua
