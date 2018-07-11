@@ -1,0 +1,5 @@
+Editando o mesmo arquivo.
+Vendo as diferencas do comando "edit nome.txt", com as diferencas do comando "copy con nome.txt."
+Entao usando o comando "edit nome.txt", a gente consegue visualizar o que ja existe no documento e fazer a edicao acrescentando ou removendo algo.
+Ja usando o comando "copy con nome.txt", nao conseguimos visualizar o que tem no arquivo, qualquer alteracao sera perdido tudo que ja tem no arquivo e salvo a nova edicao.
+
